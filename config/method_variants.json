@@ -1,0 +1,1397 @@
+{
+   "quadrature amplitude modulation": [
+    "qam",
+    "quadrature amplitude modulation"
+  ],
+  "value of lost load": [
+    "value of lost load",
+    "voll"
+  ],
+  "capacity credit": [
+    "capacity credit",
+    "capacity credit assessment"
+  ],  
+  "singular value decomposition": [
+    "singular value decomposition",
+    "svd"
+  ],
+  "network topology optimization":[
+    "network topology optimization",
+    "nto"
+  ],
+  "line outage distribution factor": [
+    "lodf",
+    "line outage distribution factor"
+  ],
+  "loss of load expectancy": [
+    "lole",
+    "loss of load expectancy",
+    "expected load loss",
+    "loss of load expectation"
+    ],
+  "loss of load probability":[
+    "loss of load probability",
+    "lolp"
+  ],
+  "loss of load frequency":[
+    "loss of load frequency",
+    "lolf"
+  ],
+  "loss of load duration":[
+    "loss of load duration",
+    "lold"
+  ],
+  "capacity outage probability table":[
+    "capacity outage probability table",
+    "copt"
+  ],
+  "power transfer distribution factor": [
+    "ptdf",
+    "power transfer distribution factor"
+  ],
+  "probabilistic power flow":[
+    "probabilistic power flow",
+    "probabilistic load flow",
+    "plf",
+    "ppf"
+  ],
+  "quadrature phase shift keying": [
+    "qpsk",
+    "quadrature pase shift keying",
+    "quadrature phase shift keying"
+  ],
+  "expected energy not served": [
+    "eens",
+    "expected energy not served",
+    "expected energy not supplied"
+  ],
+  "space vector pulse width modulation": [
+    "svpwm",
+    "space vector pulse width modulation"
+  ],
+  "k-means clustering": [
+    "k-means clustering",
+    "k-means",
+    "k-nearest" ,
+    "k-nearest neighbor",
+    "k-nearest neighbor knn",
+    "knn"
+  ],
+  "generative adversarial network": [
+    "generative adversarial network",
+    "gan",
+    "generative adversarial networks"
+  ],
+  "zero energy": [
+    "zero energy"
+  ],
+  "interior point method": [
+    "interior point method"
+  ],
+  "markov chain monte carlo": [
+    "mcmc",
+    "markov chain monte carlo",
+    "markov-chain-monte-carlo"
+  ],
+  "markov decision process":[
+    "mdp",
+    "markov decision process"
+  ],
+  "markov chain":[
+    "markov model",
+    "markov chain"
+  ],
+  "monte-carlo": [
+    "monte-carlo",
+    "monte carlo simulation",
+    "monte-carlo simulation",
+    "monte carlo method",
+    "monte carlo",
+    "monte-carlo method"
+  ],
+  "game theory": [
+    "game theory"
+  ],
+  "multi-modal energy systems": [
+    "multi-modal energy systems"
+  ],
+  "data mining": [
+    "data mining"
+  ],
+  "fuzzy logic control": [
+    "fuzzy logic controller",
+    "fuzzy logic controller flc",
+    "fuzzy controller",
+    "fuzzy logic control flc",
+    "fuzzy logic control",
+    "flc"
+  ],
+  "fuzzy c-means":[
+    "fuzzy c-means",
+    "fuzzy c-means fcm",
+    "fcm"
+  ],
+  "fuzzy set theory":[
+    "fuzzy set theory",
+    "fuzzy set"
+  ],
+  "finite element method":[
+    "finite element method"
+  ],
+  "zero-forcing": [
+    "zero-forcing"
+  ],
+  "multi-output": [
+    "multi-output"
+  ],
+  "cuckoo search": [
+    "cuckoo search",
+    "cuckoo search algorithm"
+  ],
+  "decision tree": [
+    "decision tree"
+  ],
+  "random forest": [
+    "random forest",
+    "random forest rf"
+  ],
+  "bat algorithm": [
+    "bat algorithm"
+  ],
+  "kalman filter": [
+    "kalman filter",
+    "bayesian kalman filter",
+    "bayesian kalman filtering"
+  ],
+  "extended kalman filter": [
+    "extended kalman filter",
+    "extended kalman filter ekf",
+    "ekf",
+    "bayesian extended kalman filter"
+  ],
+  "metaheuristics": [
+    "metaheuristic",
+    "meta-heuristic"
+  ],
+  "harmony search": [
+    "harmony search"
+  ],
+  "deep q-network": [
+    "deep q-network",
+    "deep q-network dqn",
+    "dqn",
+    "q-learning",
+    "double dqn",
+    "dueling dqn",
+    "double dueling dqn"
+  ],
+
+  "whale optimization algorithm":[
+    "whale optimization",
+    "whale optimization algorithm"
+  ],
+  "time-frequency analysis": [
+    "time-frequency analysis"
+  ],
+  "modal analysis": [
+    "modal analysis"
+  ],
+  "dynamic pricing": [
+    "dynamic pricing"
+  ],
+  "frequency nadir": [
+    "frequency nadir"
+  ],
+  "demand response": [
+    "demand response",
+    "demand response dr",
+    "demand response management"
+  ],
+  "hosting capacity": [
+    "hosting capacity"
+  ],
+  "voltage scaling": [
+    "voltage scaling"
+  ],
+  "unit commitment": [
+    "unit commitment uc",
+    "unit commitment"
+  ],
+  "numerical solvers": [
+    "numerical method",
+    "numerical solvers",
+    "newton-raphson load flow",
+    "newton-raphson power flow",
+    "fast decoupled power flow",
+    "fast decoupled load flow",
+    "gauss-seidel load flow",
+    "gauss-seidel power flow"
+  ],
+  "stochastic model": [
+    "stochastic model",
+    "stochastic modeling",
+    "stochastic simulation"
+  ],
+  "feedback control": [
+    "feedback control"
+  ],
+  "ensemble methods": [
+    "ensemble methods"
+  ],
+  "levelized cost of energy lcoe": [
+    "lcoe",
+    "levelized cost of energy lcoe"
+  ],
+  "grey wolf optimization": [
+    "grey wolf optimization",
+    "gwo",
+    "optimization gwo"
+  ],
+  "hardware-in-the-loop":[
+    "hardware-in-the-loop",
+    "hardware-in-the-loop hil"
+  ],
+  "state estimation": [
+    "state estimation"
+  ],
+  "modified ieee rts": [
+    "modified ieee rts"
+  ],
+  "voltage stability": [
+    "voltage stability",
+    "voltage stability index",
+    "voltage stability margin"
+  ],
+  "power forecasting": [
+    "power forecasting"
+  ],
+  "phase-locked loop": [
+    "phase-locked loop"
+  ],
+  "firefly algorithm": [
+    "firefly algorithm"
+  ],
+  "second-order cone": [
+    "second-order cone",
+    "second-order cone programming"
+  ],
+  "successive interference cancellation": [
+    "successive interference cancellation"
+  ],
+  "quantum computing": [
+    "quantum computing"
+  ],
+  "economic dispatch": [
+    "economic dispatch model",
+    "economic dispatch",
+    "economic dispatch ed"
+  ],
+  "genetic algorithm": [
+    "genetic algorithm based",
+    "genetic algorithm"
+  ],
+  "multi-state model": [
+    "multi-state model"
+  ],
+  "linear regression": [
+    "linear regression"
+  ],
+  "self-interference": [
+    "self-interference"
+  ],
+  "frequency hopping": [
+    "frequency hopping"
+  ],
+  "optimal power flow": [
+    "optimal power flow opf",
+    "optimal power flow",
+    "opf",
+    "optimal power allocation"
+  ],
+  "non linear optimal power flow":[
+    "non linear optimal power flow",
+    "ac optimal power flow",
+    "non linear opf",
+    "ac opf"
+  ],
+  "sliding mode control": [
+    "sliding mode control"
+  ],
+  "linear programming": [
+    "nonlinear programming",
+    "linear programming"
+  ],
+  "process regression": [
+    "process regression"
+  ],
+  "multi-agent system": [
+    "multi-agent system",
+    "multi agent system",
+    "mas",
+    "cooperative multi-agent",
+    "decentralized multi-agent",
+    "multi-agent coordination"
+  ],
+
+  "signal noise ratio": [
+    "signal noise ratio"
+  ],
+  "phase shift keying": [
+    "phase shift keying"
+  ],
+  "genetic programming": [
+    "genetic programming"
+  ],
+  "evolutionary programming":[
+    "evolutionary programming"
+  ],
+  "simulated annealing": [
+    "simulated annealing"
+  ],
+  "optimal utilization": [
+    "optimal utilization"
+  ],
+  "minimum mean square": [
+    "minimum mean square"
+  ],
+  "deep learning":[
+    "deep learning model",
+    "deep learning approach",
+    "deep learning algorithm"
+  ],
+  "deep neural network": [
+    "deep neural network",
+    "deep neural network dnn"
+    ],
+  "neural network": [
+    "neural network model",
+    "back propagation",
+    "neural network based",
+    "neural network anns",
+    "artificial neural network",
+    "artificial neural network ann",
+    "anns",
+    "neural network ann",
+    "neural network",
+    "neural network algorithm"
+  ],
+
+  "dynamic programming": [
+    "dynamic programming"
+  ],
+  "adaptive modulation": [
+    "adaptive modulation"
+  ],
+  "dynamic line rating": [
+    "dynamic line rating",
+    "dynamic line rating dlr"
+  ],
+  "dynamic thermal rating":[
+    "dynamic thermal rating",
+    "dynamic thermal rating dtr",
+    "dtr" 
+  ],
+  "frequency variation": [
+    "frequency variation"
+  ],
+  "evolution algorithm": [
+    "evolution algorithm"
+  ],
+  "clustering analysis": [
+    "clustering analysis"
+  ],
+  "fault tree analysis": [
+    "fault tree analysis"
+  ],
+  "logistic regression": [
+    "logistic regression"
+  ],
+  "predictive modeling": [
+    "predictive modeling"
+  ],
+  "stochastic geometry": [
+    "stochastic geometry"
+  ],
+  "power flow analysis": [
+    "power flow analysis",
+    "power flow calculation",
+    "load flow analysis"
+  ],
+  "quantile regression": [
+    "quantile regression"
+  ],
+  "topology optimization": [
+    "topology optimization"
+  ],
+  "capacity prediction": [
+    "capacity prediction"
+  ],
+  "two-stage stochastic": [
+    "two-stage stochastic",
+    "two-stage robust"
+  ],
+  "multi-user detection": [
+    "multi-user detection"
+  ],
+  "time series analysis": [
+    "time series model",
+    "time series analysis",
+    "time-series forecasting",
+    "time-series data",
+    "time-series analysis",
+    "time series",
+    "time series simulation"
+  ],
+  "partial discharge pd": [
+    "partial discharge pd"
+  ],
+  "sensitivity analysis": [
+    "sensitivity analysis"
+  ],
+  "agent-based modeling": [
+    "agent-based modeling"
+  ],
+  "adaptive neuro-fuzzy inference": [
+    "adaptive neuro-fuzzy",
+    "adaptive neuro-fuzzy inference",
+    "adaptive neuro-fuzzy inference system",
+    "anfis",
+    "adaptive neuro fuzzy inference system",
+    "neuro-fuzzy inference system",
+    "neuro-fuzzy inference"
+  ],
+  "doubly-fed induction generation": [
+    "doubly-fed induction generation",
+    "doubly-fed induction",
+    "doubly-fed induction generator"
+  ],
+  "grid failure modeling": [
+    "grid failure modeling",
+    "grid failure model",
+    "grid outage model",
+    "transmission component failure modeling",
+    "transmission outage modeling",
+    "transmission outage model",
+    "transmission component failure",
+    "transmission equipment outage",
+    "transmission line outage model",
+    "transmission line failure model",
+    "line outage model",
+    "line failure model",
+    "branch outage model",
+    "transformer outage model",
+    "transformer failure model",
+    "cable outage model",
+    "cable failure model",
+    "substation outage model",
+    "circuit outage model",
+    "tx outages"
+  ],
+  "failure statistical modeling": [
+    "failure statistical modeling",
+    "mttf",
+    "mean time to failure",
+    "mtbf",
+    "mean time between failures",
+    "mean time to repair",
+    "mttr"
+  ],
+  "forced outage rate":[
+    "forced outage rate"
+  ],
+  "failure mode effects analysis":[
+    "fmeca",
+    "failure mode effects criticality analysis",
+    "fmea",
+    "failure mode effects analysis"
+  ],
+  "load curtailment":[
+    "load curtailment"
+   ],
+  "load shifting": [
+    "load shifting"
+  ],
+  "load balancing":[
+    "load balancing"
+  ],
+  "generation outage modeling":[
+    "generation outage model",
+    "generation outage modeling",
+    "gen outages"
+  ],
+  "variable energy resource modeling":[
+    "variable energy resource modeling",
+    "ver generation",
+    "ver modeling"
+  ],
+  "congestion management":[
+    "bottleneck management",
+    "congestion management",
+    "bottleneck identification",
+    "congestion identification"
+  ],
+  "cascading failure":[
+    "cascading collapse",
+    "cascading failure"
+  ],
+  "weather dependent outage":[
+    "weather dependent outage",
+    "wx dependtend outage"
+    ],
+  "state-space modeling": [
+    "state-space modeling"
+  ],
+  "contingency analysis": [
+    "contingency analysis",
+    "n-k",
+    "n-1",
+    "n-2",
+    "n-3"
+  ],
+  "bayesian optimization": [
+    "bayesian optimization",
+    "bayesian optimisation"
+  ],
+  "bayesian inference": [
+    "bayesian inference",
+    "bayesian approach",
+    "bayesian method"
+  ],
+  "bayesian networks": [
+    "bayesian network",
+    "bayesian networks",
+    "bn",
+    "dynamic bayesian network",
+    "dynamic bayesian networks",
+    "dbn"
+  ],
+  "bayesian belief networks": [
+    "bayesian belief network",
+    "bayesian belief networks",
+    "bbn",
+    "hybrid bayesian network",
+    "hbn"
+  ],
+  "sparse bayesian learning": [
+    "sparse bayesian learning",
+    "sbl",
+    "sparse bayesian"
+  ],
+  "variational bayesian": [
+    "variational bayesian",
+    "variational bayes",
+    "vb",
+    "variational inference",
+    "variational bayesian inference"
+  ],
+  "bayesian regression": [
+    "bayesian regression",
+    "bayesian linear regression"
+  ],
+  "bayesian automatic relevance determination": [
+    "bayesian automatic relevance determination",
+    "bayesian ard",
+    "ard",
+    "automatic relevance determination"
+  ],
+  "maximum a posteriori estimation": [
+    "maximum a posteriori",
+    "map estimation",
+    "map"
+  ],
+  "gaussian process regression": [
+    "gaussian process regression",
+    "gaussian process",
+    "gaussian processes",
+    "gp regression"
+  ],
+  "bayesian neural networks": [
+    "bayesian neural network",
+    "bayesian neural networks",
+    "bnn"
+  ],
+  "bayesian deep learning": [
+    "bayesian deep learning",
+    "bayesian lstm",
+    "bayesian deep neural network"
+  ],
+  "particle filter": [
+    "particle filter",
+    "particle filtering",
+    "sequential importance sampling"
+  ],
+  "bayesian model averaging": [
+    "bayesian model averaging",
+    "bma"
+  ],
+  "bayesian information criterion": [
+    "bayesian information criterion",
+    "bic"
+  ],
+  "naive bayes": [
+    "naive bayes",
+    "naive bayes classifier"
+  ],
+  "bayesian compressed sensing": [
+    "bayesian compressed sensing"
+  ],
+  "expectation maximization": [
+    "expectation maximization",
+    "em algorithm",
+    "expectation-maximization"
+  ],
+  "gibbs sampling": [
+    "gibbs sampling",
+    "gibbs sampler"
+  ],
+  "metropolis-hastings": [
+    "metropolis-hastings",
+    "metropolis-hastings algorithm"
+  ],
+  "hamiltonian monte carlo": [
+    "hamiltonian monte carlo",
+    "hmc"
+  ],
+  "polynomial chaos expansion": [
+    "polynomial chaos expansion",
+    "pce",
+    "polynomial chaos"
+  ],
+  "system identification": [
+    "system identification"
+  ],
+  "predictive controller": [
+    "predictive controller"
+  ],
+  "hybrid energy storage": [
+    "hybrid energy storage"
+  ],
+  "binary particle swarm": [
+    "binary particle swarm"
+  ],
+  "reliability economics": [
+    "reliability economics"
+  ],
+  "cost of energy not served": [
+    "cost of energy not served",
+    "kile",
+    "cens",
+    "cost of ens",
+    "cost of energy not supplied"
+  ],
+  "approximate computing": [
+    "approximate computing"
+  ],
+  "wind power prediction": [
+    "wind power prediction"
+  ],
+  "quadratic programming": [
+    "quadratic programming"
+  ],
+  "sequential quadratic programming":[
+    "sequential quadratic programming"
+  ],
+  "hybrid acdc microgrid": [
+    "hybrid acdc microgrids",
+    "hybrid acdc microgrid"
+  ],
+  "cost-benefit analysis": [
+    "cost-benefit analysis"
+  ],
+  "hybrid system modeling": [
+    "hybrid system modeling"
+  ],
+  "reactive power sharing": [
+    "reactive power sharing"
+  ],
+  "closed-form expression": [
+    "closed-form expression"
+  ],
+  "sequential monte carlo": [
+    "sequential monte carlo",
+    "sequential monte-carlo"
+  ],
+"reinforcement learning": [
+    "reinforcement learning rl",
+    "reinforcement learning drl",
+    "reinforcement learning",
+    "model-free reinforcement learning",
+    "model-free rl",
+    "model-based reinforcement learning",
+    "model-based rl"
+  ],
+  "energy policy analysis": [
+    "energy policy analysis"
+  ],
+  "static var compensator": [
+    "static var compensator svc",
+    "static var compensator"
+  ],
+  "stochastic programming": [
+    "stochastic programming"
+  ],
+  "support vector machine": [
+    "support vector machine"
+  ],
+  "graph neural network":[
+   "graph neural network",
+   "graph-neural network"
+  ],
+  "graph theory":[
+    "graph theory"
+  ],
+  "power spectral density": [
+    "power spectral density"
+  ],
+  "load shedding analysis": [
+    "load shedding analysis"
+  ],
+  "differential evolution": [
+    "differential evolution",
+    "differential evolution algorithm"
+  ],
+  "fuzzy inference system": [
+    "fuzzy inference system",
+    "fuzzy inference"
+  ],
+  "optimal reactive power": [
+    "optimal reactive power"
+  ],
+  "load frequency control": [
+    "load frequency control",
+    "load frequency control lfc"
+  ],
+  "heuristic optimization": [
+    "heuristic optimization",
+    "heuristic algorithm"
+  ],
+  "voltage reactive power": [
+    "voltage reactive power"
+  ],
+  "tabu search": [
+    "tabu search"
+  ],
+  "power factor correction": [
+    "power factor correction"
+  ],
+  "power system stabilizer": [
+    "power system stabilizer"
+  ],
+  "stochastic optimization": [
+    "stochastic optimization"
+  ],
+
+  "multi-fidelity model": [
+    "multi-fidelity model",
+    "multi-fidelity method",
+    "multi-fidelity modeling",
+    "multi-fidelity simulation",
+    "multi-fidelity technique",
+    "multi-fidelity verification",
+    "multi-fidelity evaluation",
+    "multi-fidelity operation",
+    "multi-fidelity experimentation",
+    "multi-fidelity exploration",
+    "multi-fidelity optimization"
+  ],
+   "event-driven simulation": [
+    "event-driven simulation"
+  ],
+  "real-time data analysis": [
+    "real-time data analysis",
+    "real-time monitoring"
+  ],
+  "energy pricing strategy": [
+    "energy pricing strategy"
+  ],
+  "ant colony optimization": [
+    "ant colony optimization"
+  ],
+  "mixed-integer nonlinear programming": [
+    "mixed-integer nonlinear",
+    "mixed-integer nonlinear programming"
+  ],
+  "voltage control strategy": [
+    "voltage control strategy"
+  ],
+  "data-driven optimization": [
+    "data-driven optimization"
+  ],
+  "energy system monitoring": [
+    "energy system monitoring"
+  ],
+  "power system restoration": [
+    "power system restoration"
+  ],
+  "power quality assessment": [
+    "power quality assessment"
+  ],
+  "model predictive control": [
+    "model predictive control mpc",
+    "model predictive control"
+  ],
+  "dynamic voltage restorer": [
+    "dynamic voltage restorer dvr",
+    "dynamic voltage restorer"
+  ],
+  "error estimation techniques": [
+    "mean absolute percentage error",
+    "mean absolute percentage",
+    "mean absolute error mae","error mae",
+    "mean square error rmse",
+    "mean square error",
+    "root mean square error",
+    "mean squared error"
+  ],
+  "flexible ac transmission system":[
+    "flexible ac transmission",
+    "facts",
+    "flexible ac transmission system"
+  ],
+  "fast fourier transform":[
+    "fast fourier transform",
+    "fast fourier transform fft",
+    "fft"
+  ],
+  "proton exchange membrane": [
+    "proton exchange membrane"
+  ],
+  "power system flexibility": [
+    "power system flexibility"
+  ],
+  "energy demand forecasting": [
+    "energy demand forecasting",
+    "supply-demand forecasting"
+  ],
+  "support vector regression": [
+    "support vector regression svr",
+    "support vector regression",
+    "bayesian support vector regression"
+  ],
+  "power generation modeling": [
+    "power generation modeling"
+  ],
+  "hybrid optimization model": [
+    "hybrid optimization model"
+  ],
+  "supply chain optimization": [
+    "supply chain optimization"
+  ],
+  "power quality disturbance": [
+    "power quality disturbance"
+  ],
+  "energy market forecasting": [
+    "energy market forecasting"
+  ],
+  "shunt active power filter": [
+    "shunt active power filter"
+  ],
+  "energy resilience analysis": [
+    "energy resilience analysis"
+  ],
+  "energy efficiency modeling": [
+    "energy efficiency modeling"
+  ],
+  "machine learning": [
+    "machine learning",
+    "ml technique"
+  ],
+  "discrete wavelet transform": [
+    "discrete wavelet transform dwt",
+    "discrete wavelet transform",
+    "dwt"
+  ],
+  "error rate ber performance": [
+    "error rate ber performance"
+  ],
+  "mixed-integer programming":[
+    "mixed-integer programming"
+  ],
+  "mixed integer linear programming": [
+    "mixed integer linear programming",
+    "integer linear programming",
+    "mixed integer linear",
+    "mixed-integer linear programming",
+    "milp"
+  ],
+  "demand side management dsm": [
+    "demand side management dsm"
+  ],
+  "stochastic unit commitment": [
+    "stochastic unit commitment"
+  ],
+  "energy transition modeling": [
+    "energy transition modeling",
+    "energy transition strategy"
+  ],
+  "load forecasting": [
+    "load forecasting",
+    "load prediction",
+    "short-term load forecasting"
+  ],
+  "dynamic resource allocation": [
+    "dynamic resource allocation",
+    "resource allocation scheme",
+    "resource allocation algorithm"
+  ],
+  "energy consumption modeling": [
+    "energy consumption modeling"
+  ],
+  "particle swarm optimization": [
+    "particle swarm optimization pso",
+    "pso",
+    "particle swarm optimization",
+    "particle swarm optimization algorithm",
+    "binary particle swarm optimization"
+  ],
+  "multi-objective optimization": [
+    "multi-objective optimal",
+    "multi-objective optimization",
+    "multi objective optimization",
+    "multi objective optimal",
+    "multiobjective optimization"
+  ],
+  "maximum power point tracking": [
+    "maximum power point tracking"
+  ],
+  "alternating direction method": [
+    "alternating direction method",
+    "alternating direction method multiplier"
+  ],
+  "principal component analysis": [
+    "principal component analysis",
+    "principal component analysis pca"
+  ],
+  "energy supply chain analysis": [
+    "energy supply chain analysis",
+    "energy supply chain management"
+  ],
+  "empirical mode decomposition": [
+    "empirical mode decomposition"
+  ],
+  "energy production forecasting": [
+    "energy production forecasting"
+  ],
+  "effective load carrying capability elcc": [
+    "effective load carrying capability elcc",
+    "effective load carrying capability"
+  ],
+  "load carrying capability":[
+    "load carrying capability",
+    "load carrying capability lcc",
+    "lcc"
+  ],
+  "security-constrained economic dispatch": [
+    "security-constrained economic dispatch"
+  ],
+  "system average interruption duration index": [
+    "system average interruption duration index",
+    "saidi"
+  ],
+  "non-dominated sorting genetic": [
+    "non-dominated sorting genetic algorithm",
+    "non-dominated sorting genetic"
+  ],
+  "security-constrained optimal power flow": [
+    "security-constrained optimal power flow",
+    "scopf"
+  ],
+  "security-constrained unit commitment": [
+    "security-constrained unit commitment",
+    "scuc",
+    "security constrained unit commitment"
+  ],
+  "fuzzy comprehensive evaluation": [
+    "fuzzy comprehensive evaluation"
+  ],
+  "long short-term memory network": [
+    "long short-term memory lstm network",
+    "long short-term memory",
+    "lstm"
+  ],
+
+  "analytic hierarchy process ahp": [
+    "analytical hierarchy process ahp",
+    "analytic hierarchy process ahp"
+  ],
+  "fault detection method": [
+    "fault detection classification",
+    "fault detection method",
+    "fault detection diagnosis"
+  ],
+  "optimal capacity configuration": [
+    "optimal capacity configuration"
+  ],
+  "deep reinforcement learning": [
+    "deep reinforcement learning",
+    "deep reinforcement learning drl",
+    "drl"
+  ],
+  "environmental impact assessment": [
+    "environmental impact assessment"
+  ],
+  "artificial bee colony algorithm": [
+    "artificial bee colony algorithm",
+    "bee colony algorithm",
+    "artificial bee colony"
+  ],
+  "cumulative distribution function": [
+    "cumulative distribution function"
+  ],
+  "multiple-input-multiple-output mimo": [
+    "multiple-input-multiple-output",
+    "multiple-input-multiple-output mimo",
+    "multi-input-multi-output",
+    "multi-input multi-output",
+    "multi-user mimo",
+    "mimo technique"
+  ],
+  "multi-criteria decision analysis": [
+    "multi-criteria decision analysis"
+  ],
+  "automatic generation control agc": [
+    "automatic generation control agc"
+  ],
+  "multi-energy complementary system": [
+    "multi-energy complementary system"
+  ],
+  "convolutional neural network": [
+    "convolutional neural network",
+    "cnn",
+    "convolutional neural network cnn"
+  ],
+
+  "deep deterministic policy gradient": [
+    "deep deterministic policy gradient",
+    "ddpg",
+    "ddpg algorithm",
+    "deep deterministic"
+  ],
+
+  "probabilistic analysis": [
+    "probabilistic analysis",
+    "probabilistic model",
+    "probabilistic risk assessment",
+    "probabilistic reliability",
+    "probabilistic production simulation",
+    "scenario probability"
+  ],
+  "probabilistic forecasting":[
+    "probabilistic forecasting"
+  ],
+  "non-orthogonal multiple access": [
+    "non-orthogonal multiple access",
+    "noma",
+    "nonorthogonal multiple access"
+  ],
+  "dynamic reactive power compensation": [
+    "dynamic reactive power compensation"
+  ],
+  "orthogonal frequency-division multiplexing": [
+    "orthogonal frequency-division multiplexing"
+  ],
+  "multi-objective particle swarm optimization": [
+    "multi-objective pso",
+    "multi objective pso",
+    "multi-objective particle swarm optimization",
+    "multi objective particle swarm optimization",
+    "mopso"
+  ],
+    "gated recurrent unit": [
+    "gated recurrent unit",
+    "gru",
+    "gated recurrent unit gru"
+  ],
+  "system average interruption frequency index": [
+    "saifi",
+    "system average interruption frequency index"
+  ],
+  "customer average interruption frequency":[
+    "customer average interruption frequency",
+    "caifi"
+  ],
+  "customer average interruption duration":[
+    "customer average interruption duration",
+    "caidi"
+  ],
+  "generalized autoregressive conditional heteroskedasticity": [
+    "generalized autoregressive conditional heteroskedasticity",
+    "garch"
+  ],
+  "injection shift factors": [
+    "injection shift factors"
+  ],
+  "optimal dispatch": [
+    "optimal dispatch"
+  ],
+  "point estimate method": [
+    "point estimate method"
+  ],
+  "minimal cut set":[
+    "minimal cut set",
+    "minimum cut set"
+  ],
+  "general optimization":[
+    "general optimization",
+    "global optimization",
+    "optimization methods"
+  ],
+  "multi period optimisation":[
+    "multi period optimisation"
+  ],
+  "data envelopment analysis":[
+    "data envelopment analysis"
+  ],
+  "ensemble learning":[
+    "ensemble learning"
+  ],
+  "fault analysis":[
+    "fault analysis"
+  ],
+"scenario analysis":[
+  "scenario analysis",
+  "alternate scenario analysis",
+  "varied scenario analysis",
+  "multiple scenario analysis",
+  "several scenario"
+  ],
+"energy not served":[
+  "energy not served",
+  "energy not supplied",
+  "average energy not served",
+  "average energy not supplied",
+  "ens",
+  "aens"
+],
+"large language model":[
+  "large language model"
+],
+  "multi-agent reinforcement learning": [
+    "multi-agent reinforcement learning",
+    "marl",
+    "multi-agent rl",
+    "multi agent reinforcement learning"
+  ],
+  "multi-agent deep reinforcement learning": [
+    "multi-agent deep reinforcement learning",
+    "madrl",
+    "multi-agent drl",
+    "multi agent deep reinforcement learning"
+  ],
+  "multi-agent deep deterministic policy gradient": [
+    "multi-agent deep deterministic policy gradient",
+    "maddpg",
+    "multi-agent ddpg"
+  ],
+  "proximal policy optimization": [
+    "proximal policy optimization",
+    "ppo",
+    "ppo algorithm",
+    "proximal policy optimization algorithm"
+  ],
+  "trust region policy optimization": [
+    "trust region policy optimization",
+    "trpo",
+    "trpo algorithm"
+  ],
+  "soft actor-critic": [
+    "soft actor-critic",
+    "sac",
+    "sac algorithm"
+  ],
+  "actor-critic methods": [
+    "actor-critic",
+    "actor-critic method",
+    "actor-critic algorithm",
+    "actor-critic architecture"
+  ],
+  "multi-agent actor-critic": [
+    "multi-agent actor-critic",
+    "maac",
+    "multi agent actor-critic"
+  ],
+  "twin delayed deep deterministic policy gradient": [
+    "twin delayed deep deterministic policy gradient",
+    "td3",
+    "td3 algorithm"
+  ],
+  "advantage actor-critic": [
+    "advantage actor-critic",
+    "a2c",
+    "a2c algorithm"
+  ],
+  "asynchronous advantage actor-critic": [
+    "asynchronous advantage actor-critic",
+    "a3c",
+    "a3c algorithm"
+  ],
+  "centralized training decentralized execution": [
+    "centralized training decentralized execution",
+    "ctde",
+    "centralized training with decentralized execution"
+  ],
+  "hierarchical reinforcement learning": [
+    "hierarchical reinforcement learning",
+    "hierarchical rl",
+    "hierarchical multi-agent reinforcement learning"
+  ],
+  "distributed reinforcement learning": [
+    "distributed reinforcement learning",
+    "distributed rl",
+    "distributed deep reinforcement learning"
+  ],
+  "policy gradient methods": [
+    "policy gradient",
+    "policy gradient method",
+    "policy gradient algorithm"
+  ],
+  "deterministic policy gradient": [
+    "deterministic policy gradient",
+    "dpg",
+    "deterministic policy gradient algorithm"
+  ],
+  "experience replay": [
+    "experience replay",
+    "replay buffer",
+    "experience replay buffer",
+    "prioritized experience replay"
+  ],
+  "off-policy learning": [
+    "off-policy",
+    "off-policy learning",
+    "off-policy algorithm"
+  ],
+  "on-policy learning": [
+    "on-policy",
+    "on-policy learning",
+    "on-policy algorithm"
+  ],
+  "value function approximation": [
+    "value function approximation",
+    "value network",
+    "q-value function",
+    "value function"
+  ],
+  "temporal difference learning": [
+    "temporal difference learning",
+    "temporal difference",
+    "td learning"
+  ],
+  "transformer neural network": [
+    "transformer neural network",
+    "transformer deep learning",
+    "transformer machine learning",
+    "vision transformer",
+    "attention-based transformer",
+    "transformer encoder",
+    "transformer decoder"
+  ],
+  "attention mechanism": [
+    "attention mechanism",
+    "self-attention",
+    "multi-head attention",
+    "cross-attention"
+  ],
+  "recurrent neural network": [
+    "recurrent neural network",
+    "rnn",
+    "recurrent neural network rnn"
+  ],
+  "extreme learning machine": [
+    "extreme learning machine",
+    "elm",
+    "extreme learning machine elm"
+  ],
+  "autoencoder": [
+    "autoencoder",
+    "auto-encoder",
+    "variational autoencoder",
+    "vae"
+  ],
+  "residual neural network": [
+    "residual neural network",
+    "resnet",
+    "residual network"
+  ],
+  "convex optimization": [
+    "convex optimization",
+    "convex programming"
+  ],
+  "robust optimization": [
+    "robust optimization",
+    "robust programming"
+  ],
+  "evolutionary algorithms": [
+    "evolutionary algorithm",
+    "evolutionary algorithms",
+    "evolutionary computation"
+  ],
+  "benders decomposition": [
+    "benders decomposition",
+    "benders algorithm"
+  ],
+  "branch and bound": [
+    "branch and bound",
+    "branch-and-bound"
+  ],
+  "column generation": [
+    "column generation",
+    "column generation method"
+  ],
+  "latin hypercube sampling": [
+    "latin hypercube sampling",
+    "lhs"
+  ],
+  "importance sampling": [
+    "importance sampling"
+  ],
+  "cross validation": [
+    "cross validation",
+    "cross-validation",
+    "k-fold cross validation"
+  ],
+  "bootstrap method": [
+    "bootstrap",
+    "bootstrap method",
+    "bootstrapping"
+  ],
+  "dc power flow": [
+    "dc power flow",
+    "dc load flow",
+    "dc optimal power flow",
+    "dc opf"
+  ],
+  "transient stability analysis": [
+    "transient stability analysis",
+    "transient stability assessment"
+  ],
+  "small signal stability": [
+    "small signal stability",
+    "small-signal stability analysis"
+  ],
+  "continuation power flow": [
+    "continuation power flow",
+    "continuation method"
+  ],
+  "optimal transmission switching": [
+    "optimal transmission switching",
+    "ots"
+  ],
+  "transfer learning": [
+    "transfer learning",
+    "domain adaptation"
+  ],
+  "federated learning": [
+    "federated learning",
+    "federated machine learning"
+  ],
+  "meta-learning": [
+    "meta-learning",
+    "learning to learn"
+  ],
+  "physics-informed neural networks": [
+    "physics-informed neural networks",
+    "pinn",
+    "physics-informed machine learning"
+  ]
+}
