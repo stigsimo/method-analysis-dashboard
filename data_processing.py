@@ -180,7 +180,9 @@ def build_cooccurrence_from_methods(
     method_totals = pd.Series(np.diag(cooc.values), index=cooc.index)
 
     cooc = cooc.astype(float)
-    np.fill_diagonal(cooc.values, np.nan)
+    for i in range(len(cooc)):
+        cooc.iloc[i, i] = np.nan
+
 
     return cooc, paper_method_binary, method_totals
 
