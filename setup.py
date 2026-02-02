@@ -5,7 +5,25 @@ Setup script to create project structure and empty config files
 
 import os
 import json
+import gdown    
 
+def download_data():
+    """Download large CSV from Google Drive if not present."""
+    csv_path = 'data/enhanced_method_analysis_2026_01_06_reliability_resilience_power_systems.csv'
+    
+    if not os.path.exists(csv_path):
+        print("📥 Downloading data file from Google Drive...")
+        os.makedirs('data', exist_ok=True)
+        
+        # Replace FILE_ID with your actual Google Drive file ID
+        #https://drive.google.com/file/d/1BIzRflJj22nmpDvzPBVkiyaOlN9mZqnO/view?usp=sharing
+        file_id = "1BIzRflJj22nmpDvzPBVkiyaOlN9mZqnO"
+        url = f"https://drive.google.com/uc?export=download&id={file_id}"
+        
+        gdown.download(url, csv_path, quiet=False)
+        print("✅ Data file downloaded successfully")
+    else:
+        print("✅ Data file already exists")
 
 def main():
     """Create directory structure and placeholder files."""
@@ -49,4 +67,5 @@ def main():
 
 
 if __name__ == '__main__':
+    download_data()
     main()

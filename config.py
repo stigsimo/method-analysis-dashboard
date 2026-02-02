@@ -1,7 +1,7 @@
 """
 Configuration and constants for Method Analysis Dashboard
 """
-
+import os
 # Topic indices for filtering
 TOPIC_INDICES = [2, 5, 6, 7, 8, 13]
 
@@ -11,7 +11,7 @@ CONFIG_DIR = 'config'
 
 # Dashboard settings
 DEBUG = False
-PORT = 8050
+PORT = int(os.environ.get('PORT', 8050))  # Use Render's PORT or default to 8050
 HOST = '0.0.0.0'  # Change to '127.0.0.1' for local only
 
 # Network visualization defaults
