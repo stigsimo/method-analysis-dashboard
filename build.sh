@@ -8,4 +8,3 @@ echo "🔧 Running setup to download data..."
 python setup.py
 
 echo "✅ Build complete!"
-g
